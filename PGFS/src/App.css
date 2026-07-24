@@ -1,0 +1,70 @@
+
+:root{
+  --bg-color:#ccc;
+}
+
+html{
+  font-size: 62.5%;
+  font-family:'Trebuchet MS', Arial, sans-serif;
+}
+
+body
+{
+  background-color: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5{
+  color : #15233c;
+}
+
+p,
+li,
+a,
+button{
+  font-size: 1.7rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.6;
+  color: #000;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  color: #0369a1;
+
+  &:hover{
+    color: #063853;
+  }
+}
+
+button{
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+  padding: 0.6rem 2.4rem;
+  text-align: center;
+  outline: none;
+  border: none;
+  text-transform: unset;
+  transition: all 0.3s ease-in-out;
+  background: #202020;
+  color: #fff;
+  border-radius: 1.5rem;
+  border-width: 0.1rem;
+  border-style: solid;
+  -webkit-border-radius: 1.5rem;
+  -moz-border-radius : 1.5rem;
+  -ms-border-radius : 1.5rem;
+  -o-border-radius : 1.5rem;
+  margin-top: 1.6rem;
+}
