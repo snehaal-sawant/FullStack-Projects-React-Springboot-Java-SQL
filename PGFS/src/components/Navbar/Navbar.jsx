@@ -7,12 +7,12 @@ import MegaMenu from "../MegaMenu/MegaMenu";
 
 const Navbar = () => {
 
-  const [showMegaMenu, setShowMegaMenu] = useState(false);
+  const [activeMenu, setActiveMenu] = useState(null);
 
   return (
     <header
       className="sticky top-0 z-50 w-full border-b border-gray-200 bg-white shadow-sm"
-      onMouseLeave={() => setShowMegaMenu(false)}
+      onMouseLeave={() => setActiveMenu(null)}
     >
 
       <div className="mx-auto flex h-20 max-w-[1400px] items-center px-8">
@@ -26,9 +26,8 @@ const Navbar = () => {
         <div className="flex-1 flex justify-center h-full">
 
           <Navigation
-            showMegaMenu={showMegaMenu}
-            openMenu={() => setShowMegaMenu(true)}
-            closeMenu={() => {}}
+            activeMenu={activeMenu}
+            setActiveMenu={setActiveMenu}
           />
 
         </div>
@@ -42,7 +41,9 @@ const Navbar = () => {
 
       {/* Mega Menu */}
 
-      {showMegaMenu && <MegaMenu />}
+      {activeMenu && (
+        <MegaMenu menuType={activeMenu} />
+      )}
 
     </header>
   );

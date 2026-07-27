@@ -1,7 +1,6 @@
 import HeroContent from "./HeroContent";
 import HeroButtons from "./HeroButtons";
 import HeroStats from "./HeroStats";
-import HeroCards from "./HeroCards";
 
 const Hero = () => {
   return (
@@ -12,8 +11,6 @@ const Hero = () => {
         <HeroContent />
 
         <HeroButtons />
-
-        <HeroCards />
 
         <HeroStats />
 

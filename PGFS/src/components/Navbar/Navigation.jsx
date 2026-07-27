@@ -1,25 +1,35 @@
 import NavItem from "./NavItem";
 
-const Navigation = ({ openMenu, closeMenu, showMegaMenu }) => {
+const Navigation = ({ activeMenu, setActiveMenu }) => {
   return (
-    <nav
-      className="hidden lg:flex h-full"
-      onMouseEnter={openMenu}
-      onMouseLeave={closeMenu}
-    >
+    <nav className="hidden lg:flex h-full">
       <ul className="flex h-full items-center gap-10">
-
         <NavItem
-          title="Loans"
-          active={showMegaMenu}
+            title="Loans"
+            menuType="loans"
+            active={activeMenu === "loans"}
+            onMouseEnter={setActiveMenu}
+        />
+        <NavItem
+            title="Investments"
+            menuType="investments"
+            active={activeMenu === "investments"}
+            onMouseEnter={setActiveMenu}
         />
 
-        <NavItem title="Investments" />
+        <NavItem
+            title="Insurance"
+            menuType="insurance"
+            active={activeMenu === "insurance"}
+            onMouseEnter={setActiveMenu}
+        />
 
-        <NavItem title="Insurance" />
-
-        <NavItem title="Payments" />
-
+        <NavItem
+            title="Payments"
+            menuType="payments"
+            active={activeMenu === "payments"}
+            onMouseEnter={setActiveMenu}
+        />
       </ul>
     </nav>
   );

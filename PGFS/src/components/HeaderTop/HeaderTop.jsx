@@ -1,75 +1,63 @@
-import "./HeaderTop.css";
+import {
+    FaPhoneAlt,
+    FaEnvelope,
+    FaClock,
+} from "react-icons/fa";
+import { socialLinks } from "../../constants/socialLinks";
 
-function HeaderTop() {
-    return (
-        <div className="container-fluid bg-dark text-white-50 py-2 px-0 d-none d-lg-block">
-            <div className="row gx-0 align-items-center">
+const HeaderTop = () => {
+  return (
+     <div className="hidden lg:flex justify-between items-center bg-gray-900 text-gray-300 px-10 py-2">
+      <div>
+        <div className="flex items-center gap-6">
+          <div className="flex items-center gap-2 hover:text-white transition-colors duration-300">
+              <FaPhoneAlt size={16} />
+              <a
+                  href="tel:+917276865443"
+                  className="hover:text-white transition-colors"
+              >
+                  +91-7276865443
+              </a>
+          </div>
 
-                <div className="col-lg-7 px-5 text-start">
+          <div className="flex items-center gap-2 hover:text-white transition-colors duration-300">
+              <FaEnvelope size={16} />
+              <a
+                  href="mailto:sales@finance.plantglobal.com"
+                  className="hover:text-white transition-colors" 
+              >
+                  sales@finance.plantglobal.com
+              </a>
+          </div>
 
-                    <div className="d-inline-flex align-items-center me-4">
-                        <small className="fa fa-phone-alt me-2"></small>
-
-                        <small>
-                            <a
-                                href="tel:+917276865443"
-                                className="text-white-50 text-decoration-none"
-                            >
-                                +91-7276865443
-                            </a>
-                        </small>
-                    </div>
-
-                    <div className="d-inline-flex align-items-center me-4">
-                        <small className="far fa-envelope-open me-2"></small>
-
-                        <small>
-                            <a
-                                href="mailto:sales@plantglobal.com"
-                                className="text-white-50 text-decoration-none"
-                            >
-                                sales@plantglobal.com
-                            </a>
-                        </small>
-                    </div>
-
-                    <div className="d-inline-flex align-items-center me-4">
-                        <small className="far fa-clock me-2"></small>
-
-                        <small>
-                            Sun - Sat : 09 AM - 09 PM
-                        </small>
-                    </div>
-
-                </div>
-
-                <div className="col-lg-5 px-5 text-end">
-
-                    <div className="d-inline-flex align-items-center">
-
-                        <a className="text-white-50 ms-4" href="#">
-                            <i className="fab fa-facebook-f"></i>
-                        </a>
-
-                        <a className="text-white-50 ms-4" href="#">
-                            <i className="fab fa-twitter"></i>
-                        </a>
-
-                        <a className="text-white-50 ms-4" href="#">
-                            <i className="fab fa-linkedin-in"></i>
-                        </a>
-
-                        <a className="text-white-50 ms-4" href="#">
-                            <i className="fab fa-instagram"></i>
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
+          <div className="flex items-center gap-2 hover:text-white transition-colors duration-300">
+              <FaClock size={16} />              
+              Mon - Fri : 09 AM - 09 PM
+          </div>
         </div>
-    );
-}
+      </div>
+
+      <div className="flex items-center gap-4">
+        {
+          socialLinks.map((item) => {
+          const Icon = item.icon;
+          return (
+              <a
+                  key={item.title}
+                  href={item.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors"
+              >
+                  <Icon size={18} />
+              </a>
+          );
+          })
+        }
+
+      </div>
+    </div>
+  );
+};
 
 export default HeaderTop;

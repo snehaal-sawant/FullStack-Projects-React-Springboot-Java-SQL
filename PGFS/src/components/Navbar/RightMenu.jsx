@@ -1,4 +1,5 @@
-import { Search, CircleUserRound } from "lucide-react";
+import { FaRegUserCircle, FaSearch } from "react-icons/fa";
+
 
 const RightMenu = () => {
   return (
@@ -9,7 +10,7 @@ const RightMenu = () => {
       <button
         className="rounded-full p-2 transition-all duration-300 hover:bg-gray-100"
       >
-        <Search
+        <FaSearch
           size={21}
           strokeWidth={2}
           className="text-slate-700"
@@ -21,7 +22,7 @@ const RightMenu = () => {
       <button
         className="flex items-center gap-2 rounded-lg px-2 py-2 transition-all duration-300 hover:bg-gray-100"
       >
-        <CircleUserRound
+        <FaRegUserCircle
           size={22}
           strokeWidth={2}
           className="text-slate-700"

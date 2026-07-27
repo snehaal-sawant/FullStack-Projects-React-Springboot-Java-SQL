@@ -1,14 +1,20 @@
-import { ChevronDown } from "lucide-react";
+import { FaChevronDown } from "react-icons/fa";
 
-const NavItem = ({ title, active = false }) => {
+const NavItem = ({
+    title,
+    menuType,
+    active = false,
+    onMouseEnter,
+}) => {
   return (
-    <li className="relative group cursor-pointer h-full flex items-center">
+    <li className="relative group cursor-pointer h-full flex items-center"
+    onMouseEnter={() => onMouseEnter(menuType)}>
 
       <div className="flex items-center gap-1 px-2 h-full text-[16px] font-medium text-slate-700 transition-colors duration-300 group-hover:text-[#005BAC]">
 
         <span>{title}</span>
 
-        <ChevronDown
+        <FaChevronDown
           size={16}
           strokeWidth={2}
           className="transition-transform duration-300 group-hover:rotate-180"

@@ -1,53 +1,50 @@
-import { ChevronRight } from "lucide-react";
-import { loanMenu } from "./menuData";
+import { FaChevronRight } from "react-icons/fa";
 
-const Sidebar = ({ activeCategory, setActiveCategory }) => {
+const Sidebar = ({ menu, activeCategory, setActiveCategory }) => {
   return (
     <div className="w-[290px] border-r border-gray-200 bg-gray-100">
-      <h3 className="px-6 py-3 text-center">Loans</h3>
-      {loanMenu.map((item) => (
 
-        <button
-          key={item.id}
-          onMouseEnter={() => setActiveCategory(item.id)}
-          className={`group flex w-full items-center justify-between border-l-4 px-6 py-3 text-left transition-all duration-300 text-blue-800
+      {menu.map((item) => {
 
-          ${
-            activeCategory === item.id
-              ? "border-blue-900 font-bold-700 text-blue-900 bg-white"
-              : "border-transparent hover:border-blue-900"
-          }
-          `}
-        >
+        const isActive = activeCategory === item.id;
 
-          <span
-            className={`font-bold text-sm transition-colors duration-300
-
-            ${
-              activeCategory === item.id
-                ? "text-blue-900"
-                : "text-slate-700 group-hover:text-blue-900 "
-            }
+        return (
+          <button
+            key={item.id}
+            onMouseEnter={() => setActiveCategory(item.id)}
+            className={`group flex w-full items-center justify-between border-l-4 px-6 py-3 text-left transition-all duration-300
+              ${
+                isActive
+                  ? "border-blue-900 bg-white"
+                  : "border-transparent hover:border-blue-900"
+              }
             `}
           >
-            {item.title}
-          </span>
+            <span
+              className={`text-sm font-semibold transition-colors duration-300
+                ${
+                  isActive
+                    ? "text-blue-900"
+                    : "text-slate-700 group-hover:text-blue-900"
+                }
+              `}
+            >
+              {item.title}
+            </span>
 
-          <ChevronRight
-            size={18}
-            className={`transition-all duration-300
-
-            ${
-              activeCategory === item.id
-                ? "text-blue-900 translate-x-1"
-                : "text-gray-900 group-hover:text-blue-700 group-hover:translate-x-1"
-            }
-            `}
-          />
-
-        </button>
-
-      ))}
+            <FaChevronRight
+              size={18}
+              className={`transition-all duration-300
+                ${
+                  isActive
+                    ? "text-blue-900 translate-x-1"
+                    : "text-gray-500 group-hover:text-blue-900 group-hover:translate-x-1"
+                }
+              `}
+            />
+          </button>
+        );
+      })}
 
     </div>
   );
