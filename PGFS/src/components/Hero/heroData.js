@@ -1,5 +1,5 @@
-import hero1 from "../../../assets/images/hero/hero1.jpg";
-import hero2 from "../../../assets/images/hero/hero2.jpg";
+import hero1 from "../../assets/images/Hero/hero1.jpg";
+import hero2 from "../../assets/images/Hero/hero2.jpg";
 
 export const heroSlides = [
   {
@@ -10,8 +10,6 @@ export const heroSlides = [
     title: "Empowering Your",
 
     highlight: "Financial Growth",
-
-    subtitle: "With Smart Financial Solutions",
 
     description:
       "Explore loans, investments, insurance and payment solutions designed for individuals and businesses.",
@@ -49,14 +47,12 @@ export const heroSlides = [
 
     badge: "BUILD YOUR FUTURE",
 
-    title: "Grow Your",
+    title: "Insurance That Cares",
 
-    highlight: "Savings",
-
-    subtitle: "One Investment At A Time",
+    highlight: "For Every Tomorrow",
 
     description:
-      "Choose from investment plans that help secure your future with confidence and long-term growth.",
+      "From life to health to motor - protect what matters most with plans built around you.",
 
     image: hero2,
 

@@ -2,34 +2,34 @@ const HeroStats = () => {
 
   const stats = [
     {
-      value: "30+",
+      value: "10+",
       label: "Bank Partners",
     },
     {
-      value: "₹500Cr+",
+      value: "₹50L+",
       label: "Loans Processed",
     },
     {
-      value: "10K+",
+      value: "2K+",
       label: "Happy Customers",
     },
   ];
 
   return (
 
-    <div className="mt-20 grid gap-8 text-center md:grid-cols-3">
+    <div className="flex flex-col sm:flex-row lg:items-start gap-8 pt-5 text-center lg:text-left">
 
       {stats.map((stat) => (
 
         <div key={stat.label}>
 
-          <h2 className="text-4xl font-bold text-[#005BAC]">
+          <h2 className="text-1xl font-bold sm:text-1xl lg:text-1xl text-gray-800">
 
             {stat.value}
 
           </h2>
 
-          <p className="mt-2 text-gray-600">
+          <p className="mt-1 text-xs sm:text-sm text-gray-500">
 
             {stat.label}
 

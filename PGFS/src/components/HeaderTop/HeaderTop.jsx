@@ -7,10 +7,10 @@ import { socialLinks } from "../../constants/socialLinks";
 
 const HeaderTop = () => {
   return (
-     <div className="hidden lg:flex justify-between items-center bg-gray-900 text-gray-300 px-10 py-2">
+     <div className="hidden lg:flex justify-between items-center bg-gray-900 text-gray-300 px-10 py-1.5">
       <div>
         <div className="flex items-center gap-6">
-          <div className="flex items-center gap-2 hover:text-white transition-colors duration-300">
+          <div className="flex text-sm items-center gap-2 hover:text-white transition-colors duration-300">
               <FaPhoneAlt size={16} />
               <a
                   href="tel:+917276865443"
@@ -20,7 +20,7 @@ const HeaderTop = () => {
               </a>
           </div>
 
-          <div className="flex items-center gap-2 hover:text-white transition-colors duration-300">
+          <div className="flex text-sm items-center gap-2 hover:text-white transition-colors duration-300">
               <FaEnvelope size={16} />
               <a
                   href="mailto:sales@finance.plantglobal.com"
@@ -30,7 +30,7 @@ const HeaderTop = () => {
               </a>
           </div>
 
-          <div className="flex items-center gap-2 hover:text-white transition-colors duration-300">
+          <div className="flex text-sm items-center gap-2 hover:text-white transition-colors duration-300">
               <FaClock size={16} />              
               Mon - Fri : 09 AM - 09 PM
           </div>

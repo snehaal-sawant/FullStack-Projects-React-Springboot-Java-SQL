@@ -9,7 +9,7 @@ const Logo = () => {
       <img
          src={logo}
          alt="Company Logo"
-         className="max-w-[220px] h-auto object-contain"
+         className="max-w-[180px] h-auto object-contain"
       />
     </a>
   );

@@ -15,7 +15,7 @@ const Navbar = () => {
       onMouseLeave={() => setActiveMenu(null)}
     >
 
-      <div className="mx-auto flex h-20 max-w-[1400px] items-center px-8">
+      <div className="mx-auto flex h-16 max-w-[1400px] items-center px-8">
 
         {/* Logo */}
         <div className="w-[240px] flex-shrink-0">
@@ -23,7 +23,7 @@ const Navbar = () => {
         </div>
 
         {/* Navigation */}
-        <div className="flex-1 flex justify-center h-full">
+        <div className="flex-1 text-sm flex justify-center h-full">
 
           <Navigation
             activeMenu={activeMenu}
@@ -33,7 +33,7 @@ const Navbar = () => {
         </div>
 
         {/* Right Side */}
-        <div className="w-[240px] flex justify-end flex-shrink-0">
+        <div className="w-[280px] flex justify-end flex-shrink-0">
           <RightMenu />
         </div>
 

@@ -1,29 +1,103 @@
-const HeroContent = () => {
+import HeroButtons from "./HeroButtons";
+import HeroStats from "./HeroStats";
+import { motion } from "framer-motion";
+
+const containerVariants = {
+  hidden: {},
+
+  visible: {
+    transition: {
+      staggerChildren: 0.15,
+    },
+  },
+};
+
+const itemVariants = {
+  hidden: {
+    opacity: 0,
+    x: -40,
+  },
+
+  visible: {
+    opacity: 1,
+    x: 0,
+    transition: {
+      duration: 0.6,
+    },
+  },
+
+  exit: {
+    opacity: 0,
+    x: -40,
+  },
+};
+
+const HeroContent = ({ slide }) => {
   return (
-    <div className="mx-auto max-w-4xl text-center">
+    <motion.div
+      className="space-y-6 lg:space-y-8 text-center lg:text-left"
+      variants={containerVariants}
+      initial="hidden"
+      animate="visible"
+      exit="hidden"
+      initial={{
+          x: -80,
+          opacity: 0,
+      }}
+      animate={{
+          x: 0,
+          opacity: 1,
+      }}
+      exit={{
+          x: -80,
+          opacity: 0,
+      }}
+      transition={{
+          duration: 0.7,
+      }}
+      >
 
-      <h1 className="text-5xl font-extrabold leading-tight text-slate-900">
+      {/* Badge */}
 
-        Find the Right
+      <motion.span variants={itemVariants} className="inline-flex rounded-full bg-blue-100 px-4 py-2 text-xs font-semibold text-[#005BAC]">
+        {slide.badge}
+      </motion.span>
 
-        <span className="block text-[#005BAC]">
+      {/* Heading */}
 
-          Financial Solution
+      <motion.div variants={itemVariants}>
 
-        </span>
+        <h1 className="text-2xl sm:text-3xl lg:text-4xl xl:text-[50px] font-bold text-slate-900 leading-[1.05]">
 
-        for Your Future
+          {slide.title}
 
-      </h1>
+          <span className="block text-[#005BAC]">
+            {slide.highlight}
+          </span>
 
-      <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-600">
+        </h1>
 
-        Compare loans, investments and insurance plans from India's leading
-        financial institutions.
+      </motion.div>
 
-      </p>
+      {/* Description */}
 
-    </div>
+      <motion.p variants={itemVariants} className="max-w-xl mx-auto lg:mx-0 text-base sm:text-lg font-medium leading-[1.3] text-slate-600">
+        {slide.description}
+      </motion.p>
+
+      {/* Buttons */}
+
+      <motion.div variants={itemVariants}>
+        <HeroButtons slide={slide} />
+      </motion.div>
+
+      {/* Statistics */}
+
+      <motion.div variants={itemVariants}>
+        <HeroStats stats={slide.stats} />
+      </motion.div>
+
+    </motion.div>
   );
 };
 

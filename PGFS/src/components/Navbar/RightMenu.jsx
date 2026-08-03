@@ -8,10 +8,10 @@ const RightMenu = () => {
       {/* Search */}
 
       <button
-        className="rounded-full p-2 transition-all duration-300 hover:bg-gray-100"
+        className="rounded-md p-2 transition-all duration-300 hover:bg-gray-100"
       >
         <FaSearch
-          size={21}
+          size={18}
           strokeWidth={2}
           className="text-slate-700"
         />
@@ -23,12 +23,12 @@ const RightMenu = () => {
         className="flex items-center gap-2 rounded-lg px-2 py-2 transition-all duration-300 hover:bg-gray-100"
       >
         <FaRegUserCircle
-          size={22}
+          size={18}
           strokeWidth={2}
           className="text-slate-700"
         />
 
-        <span className="font-medium text-slate-700">
+        <span className="font-sm text-slate-700">
           Login
         </span>
 
@@ -41,14 +41,14 @@ const RightMenu = () => {
           rounded-lg
           bg-[#005BAC]
           px-5
-          py-2.5
+          py-2
           text-sm
           font-semibold
           text-white
           shadow-md
           transition-all
           duration-300
-          hover:bg-[#004b8c]
+          hover:bg-[#0369a1]
           hover:shadow-lg
         "
       >

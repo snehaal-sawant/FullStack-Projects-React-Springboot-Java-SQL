@@ -3,9 +3,10 @@
   --bg-color:#ccc;
 }
 
-html{
-  font-size: 62.5%;
-  font-family:'Trebuchet MS', Arial, sans-serif;
+html, body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 body
@@ -26,8 +27,8 @@ li,
 a,
 button{
   font-size: 1.7rem;
-  letter-spacing: 0.1rem;
-  line-height: 1.6;
+  letter-spacing: 0rem;
+  line-height: 1;
   color: #000;
 }
 
@@ -36,7 +37,7 @@ li{
 }
 
 a{
-  color: #0369a1;
+  color: #063853;
 
   &:hover{
     color: #063853;
@@ -49,9 +50,9 @@ button{
   align-items: center;
   font-family: inherit;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1;
   cursor: pointer;
-  padding: 0.6rem 2.4rem;
+  padding: 0.2rem 2.4rem;
   text-align: center;
   outline: none;
   border: none;
@@ -59,7 +60,7 @@ button{
   transition: all 0.3s ease-in-out;
   background: #202020;
   color: #fff;
-  border-radius: 1.5rem;
+  border-radius: 1.2rem;
   border-width: 0.1rem;
   border-style: solid;
   -webkit-border-radius: 1.5rem;
