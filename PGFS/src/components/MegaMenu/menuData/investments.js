@@ -5,7 +5,6 @@ import { FaHouseCircleCheck, FaMoneyBillTransfer, FaMoneyBillTrendUp } from "rea
 import { GrMoney } from "react-icons/gr";
 import { BiSolidBuildingHouse } from "react-icons/bi";
 
-
 export const investments = [
    {
     id: "equity-investment-services",

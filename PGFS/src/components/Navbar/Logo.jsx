@@ -4,7 +4,7 @@ const Logo = () => {
   return (
     <a
       href="/"
-      className="flex items-center w-[240px] h-full"
+      className="flex items-center w-[240px] pt-2 h-full"
     >
       <img
          src={logo}
