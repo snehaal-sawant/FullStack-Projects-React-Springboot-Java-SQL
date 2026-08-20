@@ -1,0 +1,71 @@
+
+:root{
+  --bg-color:#ccc;
+}
+
+html, body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body
+{
+  background-color: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5{
+  color : #15233c;
+}
+
+p,
+li,
+a,
+button{
+  font-size: 1.7rem;
+  letter-spacing: 0rem;
+  line-height: 1;
+  color: #000;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  color: #063853;
+
+  &:hover{
+    color: #063853;
+  }
+}
+
+button{
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.2rem 2.4rem;
+  text-align: center;
+  outline: none;
+  border: none;
+  text-transform: unset;
+  transition: all 0.3s ease-in-out;
+  background: #202020;
+  color: #fff;
+  border-radius: 1.2rem;
+  border-width: 0.1rem;
+  border-style: solid;
+  -webkit-border-radius: 1.5rem;
+  -moz-border-radius : 1.5rem;
+  -ms-border-radius : 1.5rem;
+  -o-border-radius : 1.5rem;
+  margin-top: 1.6rem;
+}
