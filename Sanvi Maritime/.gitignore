@@ -1,0 +1,27 @@
+# Node / React
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Java / Maven
+backend/target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Database / local data
+mysql_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
