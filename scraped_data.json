@@ -1,0 +1,854 @@
+{
+  "home": {
+    "url": "https://www.sanvimaritime.com/index.php",
+    "title": "SANVI MARITIME",
+    "text_sample": [
+      "Toggle navigation",
+      "Home",
+      "About",
+      "Our Products \n\nMAIN ENGINE & SPARE PARTSGENERATOR AND SPARE PARTSAIR COMPRESSOR & SPARE PARTSOIL PURIFIER & SPARE PARTSTURBOCHARGER & SPARE PARTSHYDRAULIC MOTOR & PUMPFRESH WATER GENERATORAC & REFRIGERATION COMPRESSORANCHOR & ANCHOR CHAINNAVIGATION EQUIPMENT",
+      "MAIN ENGINE & SPARE PARTS",
+      "GENERATOR AND SPARE PARTS",
+      "AIR COMPRESSOR & SPARE PARTS",
+      "OIL PURIFIER & SPARE PARTS",
+      "TURBOCHARGER & SPARE PARTS",
+      "HYDRAULIC MOTOR & PUMP",
+      "FRESH WATER GENERATOR",
+      "AC & REFRIGERATION COMPRESSOR",
+      "ANCHOR & ANCHOR CHAIN",
+      "NAVIGATION EQUIPMENT",
+      "New Arrivals",
+      "Our Services",
+      "Blog",
+      "Contact us",
+      "WIDE RANGE OF MARINE SPARE PART",
+      "EXPANSIVE ARRAY OF MARINE SPARES",
+      "DIVERSE SELECTION OF MARINE SPARE PARTS",
+      "EXTENSIVE VARIETY OF MARINE SPARE PARTS",
+      "ABOUT US",
+      "About Sanvi Maritime",
+      "Sanvi Maritime is a prominent ship spare parts supplier, based in Kalyan (Mumbai), specializing in the trading of both, brand new and used \u2013 reconditioned marine spare parts. Sanvi Maritime has positioned itself as one of the leading marine spare parts traders globally, offering quality services to ship owners and ship management companies. Our success is rooted in a robust network that positions Sanvi Maritime as a crucial intermediary between spare parts manufacturers, suppliers and esteemed OEM suppliers globally. This strategic positioning allows us to offer a diverse range of high \u2013 quality products to meet the dynamic needs of the maritime sector.",
+      "NEW PRODUCTS",
+      "New Products",
+      "Plunger Assy, 146623-51102",
+      "Woodward UG25+",
+      "Type - AMC-30A-M2-31",
+      "Fuel Pump Assy.,  746623-51102",
+      "Tanabe H64",
+      "MET18SRC",
+      "RH133",
+      "Valve assy, Injection, 746623-53351",
+      "Hatlapa L95",
+      "Pump Element, PYO-U8045",
+      "Pump Element, PYO-U8031",
+      "Nozzle , LTO-BHE/E",
+      "Piston",
+      "Camshaft Section, 50705-27H-015",
+      "Piston Crown",
+      "Nozzle DLL135TE2810M3,  06473-013",
+      "Nozzle DLL140TE288M6, 0007-007",
+      "Nozzle DLF140TE2810, E206250290A",
+      "Nozzle 146673-53040",
+      "Nozzle 146623-53351",
+      "Connecting Rod New Product",
+      "NOZZLE  TIP",
+      "OUR SERVICE",
+      "Our Services",
+      "ASIA\u2019S LEADING\nSPARES PARTS PROVING COMPANY",
+      "ASIA\u2019S LEADING",
+      "SPARES PARTS PROVING COMPANY",
+      "OUR PRODUCT",
+      "Our list of products",
+      "BLOGS",
+      "Latest blogs",
+      "Management And Procurement Of Spares On Ships  How To Identify, Order And Reduce Costs",
+      "Efficient management and procurement of spare parts are integral to the smooth operation of ships, ensuring minimal downtime and optimal performance."
+    ],
+    "images": [
+      {
+        "src": "https://www.sanvimaritime.com/images/Logo/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM2.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM3.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM6.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM5.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM7.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM8.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM9.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM10.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM11.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM12.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM13.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM14.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM15.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/Daihatsu-DE18.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/Daihatsu-DC17A.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/Daihatsu-DK20.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/YanmarN18.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/YanmarEY18.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM11.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/nozzle_tip.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Service/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Service/02.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Service/03.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Service/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/p05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/p06.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/p07.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/p08.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/p09.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/p10.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/p011.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/p012.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/06.png",
+        "alt": ""
+      }
+    ]
+  },
+  "about": {
+    "url": "https://www.sanvimaritime.com/aboutus.php",
+    "title": "SANVI MARITIME",
+    "text_sample": [
+      "Toggle navigation",
+      "Home",
+      "About",
+      "Our Products \n\nMAIN ENGINE & SPARE PARTSGENERATOR AND SPARE PARTSAIR COMPRESSOR & SPARE PARTSOIL PURIFIER & SPARE PARTSTURBOCHARGER & SPARE PARTSHYDRAULIC MOTOR & PUMPFRESH WATER GENERATORAC & REFRIGERATION COMPRESSORANCHOR & ANCHOR CHAINNAVIGATION EQUIPMENT",
+      "MAIN ENGINE & SPARE PARTS",
+      "GENERATOR AND SPARE PARTS",
+      "AIR COMPRESSOR & SPARE PARTS",
+      "OIL PURIFIER & SPARE PARTS",
+      "TURBOCHARGER & SPARE PARTS",
+      "HYDRAULIC MOTOR & PUMP",
+      "FRESH WATER GENERATOR",
+      "AC & REFRIGERATION COMPRESSOR",
+      "ANCHOR & ANCHOR CHAIN",
+      "NAVIGATION EQUIPMENT",
+      "New Arrivals",
+      "Our Services",
+      "Blog",
+      "Contact us",
+      "ABOUT US",
+      "About Sanvi Maritime",
+      "Sanvi Maritime is a prominent ship spare parts supplier, based in Kalyan (Mumbai), specializing in the trading of both, brand new and used \u2013 reconditioned marine spare parts. Sanvi Maritime has positioned itself as one of the leading marine spare parts traders globally, offering quality services to ship owners and ship management companies.\n          Our success is rooted in a robust network that positions Sanvi Maritime as a crucial intermediary between spare parts manufacturers, suppliers and esteemed OEM suppliers globally. This strategic positioning allows us to offer a diverse range of high \u2013 quality products to meet the dynamic needs of the maritime sector.",
+      "A key strength lies in our association with Asia\u2019s largest ship breaking yard in Alang, enhancing our inventory and enabling the provision of top notch used and reconditioned spare parts directly from ships undergoing demolition and renowned scrap yards. \n      At Sanvi Maritime, as a trusted partner in the maritime industry, our unwavering mission is to deliver reliable, sustainable and cutting edge solutions globally.",
+      "Quick Links",
+      "About us",
+      "Our Products",
+      "Our Services",
+      "Blogs",
+      "Need Help",
+      "FAQ",
+      "Privacy Policy",
+      "Terms and conditions",
+      "Contact US",
+      "Contact Info",
+      "610, Lodha Signet Palava - Signet 1, Premier Colony Ground, Kalyan Shil Road,Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "+9167929096",
+      "spares@sanvimaritime.com",
+      "Sanvi marine services \u00a92025. All copyrights reserved."
+    ],
+    "images": [
+      {
+        "src": "https://www.sanvimaritime.com/images/Logo/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/06.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/07.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/08.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/09.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/10.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/11.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/12.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/13.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/14.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/15.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/16.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/17.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/18.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/19.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/20.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Aboutus/21.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/06.png",
+        "alt": ""
+      }
+    ]
+  },
+  "services": {
+    "url": "https://www.sanvimaritime.com/service.php",
+    "title": "SANVI MARITIME",
+    "text_sample": [
+      "Toggle navigation",
+      "Home",
+      "About",
+      "Our Products \n\nMAIN ENGINE & SPARE PARTSGENERATOR AND SPARE PARTSAIR COMPRESSOR & SPARE PARTSOIL PURIFIER & SPARE PARTSTURBOCHARGER & SPARE PARTSHYDRAULIC MOTOR & PUMPFRESH WATER GENERATORAC & REFRIGERATION COMPRESSORANCHOR & ANCHOR CHAINNAVIGATION EQUIPMENT",
+      "MAIN ENGINE & SPARE PARTS",
+      "GENERATOR AND SPARE PARTS",
+      "AIR COMPRESSOR & SPARE PARTS",
+      "OIL PURIFIER & SPARE PARTS",
+      "TURBOCHARGER & SPARE PARTS",
+      "HYDRAULIC MOTOR & PUMP",
+      "FRESH WATER GENERATOR",
+      "AC & REFRIGERATION COMPRESSOR",
+      "ANCHOR & ANCHOR CHAIN",
+      "NAVIGATION EQUIPMENT",
+      "New Arrivals",
+      "Our Services",
+      "Blog",
+      "Contact us",
+      "Exporter of entire ship spares",
+      "Exporter of entire ship spares",
+      "Onboard Delivery of Spares / Repair",
+      "Onboard Delivery of Spares / Repair",
+      "Overhauling & all types of marine installation",
+      "Overhauling & all types of marine installation",
+      "Exporter Of Entire ship spares",
+      "Explore our dedicated ship spares export services, where we prioritize seamless exports marked by a steadfast commitment to quality and efficiency. With a comprehensive range of superior products meeting stringent industry standards, we empower maritime entities with confidence and reliability in their vessel operations. Trust us for precision, durability, and timely delivery, as we exceed expectations and contribute to the seamless efficiency of maritime enterprises globally.",
+      "Onboard Delivery of Spares / Repair",
+      "Experience seamless onboard delivery spares repair with our services, offering timely and precise deliveries combined with the highest standards of repair. We prioritize efficiency, ensuring your onboard spares are promptly delivered and expertly restored to optimum functionality. Trust us for a seamless fusion of precision and top-tier repair services to keep your operations running smoothly.",
+      "Overhauling and All Types of Marine Installations:",
+      "Excel in marine overhauling and installations with our expertise, guaranteeing longevity and optimal performance. Our services encompass comprehensive overhauls and a diverse range of marine installations, committed to elevating the durability and efficiency of maritime assets. Trust us for excellence in maintaining and enhancing the performance of your marine equipment.",
+      "Explore Of Entire Spares On Ships",
+      "Effective spares management and procurement are crucial for smooth ship operations. Spare parts are essential for maintenance, repairs, and replacements, ensuring uninterrupted functionality. But it can be tough to",
+      "Explore Of Entire Spares On Ships",
+      "Effective spares management and procurement are crucial for smooth ship operations. Spare parts are essential for maintenance, repairs, and replacements, ensuring uninterrupted functionality. But it can be tough to",
+      "Explore Of Entire Spares On Ships",
+      "Effective spares management and procurement are crucial for smooth ship operations. Spare parts are essential for maintenance, repairs, and replacements, ensuring uninterrupted functionality. But it can be tough to",
+      "Quick Links",
+      "About us",
+      "Our Products",
+      "Our Services",
+      "Blogs",
+      "Need Help",
+      "FAQ",
+      "Privacy Policy",
+      "Terms and conditions",
+      "Contact US",
+      "Contact Info",
+      "610, Lodha Signet Palava - Signet 1, Premier Colony Ground, Kalyan Shil Road,Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "+9167929096",
+      "spares@sanvimaritime.com",
+      "Sanvi marine services \u00a92025. All copyrights reserved."
+    ],
+    "images": [
+      {
+        "src": "https://www.sanvimaritime.com/images/Logo/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Service/edit/02.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Service/edit/03.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Service/edit/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/06.png",
+        "alt": ""
+      }
+    ]
+  },
+  "contact": {
+    "url": "https://www.sanvimaritime.com/contactus.php",
+    "title": "SANVI MARITIME",
+    "text_sample": [
+      "Toggle navigation",
+      "Home",
+      "About",
+      "Our Products \n\nMAIN ENGINE & SPARE PARTSGENERATOR AND SPARE PARTSAIR COMPRESSOR & SPARE PARTSOIL PURIFIER & SPARE PARTSTURBOCHARGER & SPARE PARTSHYDRAULIC MOTOR & PUMPFRESH WATER GENERATORAC & REFRIGERATION COMPRESSORANCHOR & ANCHOR CHAINNAVIGATION EQUIPMENT",
+      "MAIN ENGINE & SPARE PARTS",
+      "GENERATOR AND SPARE PARTS",
+      "AIR COMPRESSOR & SPARE PARTS",
+      "OIL PURIFIER & SPARE PARTS",
+      "TURBOCHARGER & SPARE PARTS",
+      "HYDRAULIC MOTOR & PUMP",
+      "FRESH WATER GENERATOR",
+      "AC & REFRIGERATION COMPRESSOR",
+      "ANCHOR & ANCHOR CHAIN",
+      "NAVIGATION EQUIPMENT",
+      "New Arrivals",
+      "Our Services",
+      "Blog",
+      "Contact us",
+      "Contact Info",
+      "610,Lodha Signet Palava - Signet 1,Premier Colony Ground,Kalyan Shil Road, Kalyan, Thane,Mumbai, Maharashtra 421204",
+      "+91-9167929096",
+      "spares@sanvimaritime.com",
+      "Connect with us",
+      "Quick Links",
+      "About us",
+      "Our Products",
+      "Our Services",
+      "Blogs",
+      "Need Help",
+      "FAQ",
+      "Privacy Policy",
+      "Terms and conditions",
+      "Contact US",
+      "Contact Info",
+      "610, Lodha Signet Palava - Signet 1, Premier Colony Ground, Kalyan Shil Road,Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "+9167929096",
+      "spares@sanvimaritime.com",
+      "Sanvi marine services \u00a92025. All copyrights reserved."
+    ],
+    "images": [
+      {
+        "src": "https://www.sanvimaritime.com/images/Logo/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/06.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/06.png",
+        "alt": ""
+      }
+    ]
+  },
+  "blogs": {
+    "url": "https://www.sanvimaritime.com/blogs.php",
+    "title": "SANVI MARITIME",
+    "text_sample": [
+      "Toggle navigation",
+      "Home",
+      "About",
+      "Our Products \n\nMAIN ENGINE & SPARE PARTSGENERATOR AND SPARE PARTSAIR COMPRESSOR & SPARE PARTSOIL PURIFIER & SPARE PARTSTURBOCHARGER & SPARE PARTSHYDRAULIC MOTOR & PUMPFRESH WATER GENERATORAC & REFRIGERATION COMPRESSORANCHOR & ANCHOR CHAINNAVIGATION EQUIPMENT",
+      "MAIN ENGINE & SPARE PARTS",
+      "GENERATOR AND SPARE PARTS",
+      "AIR COMPRESSOR & SPARE PARTS",
+      "OIL PURIFIER & SPARE PARTS",
+      "TURBOCHARGER & SPARE PARTS",
+      "HYDRAULIC MOTOR & PUMP",
+      "FRESH WATER GENERATOR",
+      "AC & REFRIGERATION COMPRESSOR",
+      "ANCHOR & ANCHOR CHAIN",
+      "NAVIGATION EQUIPMENT",
+      "New Arrivals",
+      "Our Services",
+      "Blog",
+      "Contact us",
+      "Efficient management and procurement of spare parts are integral to the smooth operation of ships, ensuring minimal downtime and optimal performance.",
+      "Effective maintenance planning is a cornerstone of ensuring the seamless operation and longevity of a ship.",
+      "In the dynamic and challenging realm of maritime operations, the reliability and safety of vessels stand as paramount concerns for shipowners and operators.",
+      "Explore the reliable availability of Hyundai Himsen H17/28 spare parts at Sanvi Maritime",
+      "Quick Links",
+      "About us",
+      "Our Products",
+      "Our Services",
+      "Blogs",
+      "Need Help",
+      "FAQ",
+      "Privacy Policy",
+      "Terms and conditions",
+      "Contact US",
+      "Contact Info",
+      "610, Lodha Signet Palava - Signet 1, Premier Colony Ground, Kalyan Shil Road,Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "+9167929096",
+      "spares@sanvimaritime.com",
+      "Sanvi marine services \u00a92025. All copyrights reserved."
+    ],
+    "images": [
+      {
+        "src": "https://www.sanvimaritime.com/images/Logo/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Blog/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Blog/02.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Blog/03.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Blog/PHOTO-2023-06-10-23-05-11.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/06.png",
+        "alt": ""
+      }
+    ]
+  },
+  "new_arrivals": {
+    "url": "https://www.sanvimaritime.com/new-arrival.php",
+    "title": "SANVI MARITIME",
+    "text_sample": [
+      "Toggle navigation",
+      "Home",
+      "About",
+      "Our Products \n\nMAIN ENGINE & SPARE PARTSGENERATOR AND SPARE PARTSAIR COMPRESSOR & SPARE PARTSOIL PURIFIER & SPARE PARTSTURBOCHARGER & SPARE PARTSHYDRAULIC MOTOR & PUMPFRESH WATER GENERATORAC & REFRIGERATION COMPRESSORANCHOR & ANCHOR CHAINNAVIGATION EQUIPMENT",
+      "MAIN ENGINE & SPARE PARTS",
+      "GENERATOR AND SPARE PARTS",
+      "AIR COMPRESSOR & SPARE PARTS",
+      "OIL PURIFIER & SPARE PARTS",
+      "TURBOCHARGER & SPARE PARTS",
+      "HYDRAULIC MOTOR & PUMP",
+      "FRESH WATER GENERATOR",
+      "AC & REFRIGERATION COMPRESSOR",
+      "ANCHOR & ANCHOR CHAIN",
+      "NAVIGATION EQUIPMENT",
+      "New Arrivals",
+      "Our Services",
+      "Blog",
+      "Contact us",
+      "DAIHATSU",
+      "DE18",
+      "DAIHATSU - DE18",
+      "MAK - M43C",
+      "MAN B&W  - L50MC",
+      "MITSUBISHI - UEC 45 LA",
+      "YANMAR - 6EY18",
+      "Select Brand",
+      "NEW PRODUCTS",
+      "New Products",
+      "Plunger Assy, 146623-51102",
+      "Woodward UG25+",
+      "Type - AMC-30A-M2-31",
+      "Fuel Pump Assy.,  746623-51102",
+      "Tanabe H64",
+      "MET18SRC",
+      "RH133",
+      "Valve assy, Injection, 746623-53351",
+      "Hatlapa L95",
+      "Pump Element, PYO-U8045",
+      "Pump Element, PYO-U8031",
+      "Nozzle , LTO-BHE/E",
+      "Piston",
+      "Camshaft Section, 50705-27H-015",
+      "Piston Crown",
+      "Nozzle DLL135TE2810M3,  06473-013",
+      "Nozzle DLL140TE288M6, 0007-007",
+      "Nozzle DLF140TE2810, E206250290A",
+      "Nozzle 146673-53040",
+      "Nozzle 146623-53351",
+      "Connecting Rod New Product",
+      "NOZZLE  TIP",
+      "Quick Links",
+      "About us",
+      "Our Products",
+      "Our Services",
+      "Blogs",
+      "Need Help",
+      "FAQ",
+      "Privacy Policy",
+      "Terms and conditions",
+      "Contact US"
+    ],
+    "images": [
+      {
+        "src": "https://www.sanvimaritime.com/images/Logo/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM2.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM3.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM6.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM5.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM7.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM8.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM9.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM10.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM11.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM12.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM13.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM14.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM15.jpg ",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/Daihatsu-DE18.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/Daihatsu-DC17A.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/Daihatsu-DK20.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/YanmarN18.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/YanmarEY18.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/SM11.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Product/nozzle_tip.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/06.png",
+        "alt": ""
+      }
+    ]
+  },
+  "products": {
+    "url": "https://www.sanvimaritime.com/product.php/1001/main-engine-n-spare-parts/",
+    "title": "SANVI MARITIME",
+    "text_sample": [
+      "Toggle navigation",
+      "Home",
+      "About",
+      "Our Products \n\nMAIN ENGINE & SPARE PARTSGENERATOR AND SPARE PARTSAIR COMPRESSOR & SPARE PARTSOIL PURIFIER & SPARE PARTSTURBOCHARGER & SPARE PARTSHYDRAULIC MOTOR & PUMPFRESH WATER GENERATORAC & REFRIGERATION COMPRESSORANCHOR & ANCHOR CHAINNAVIGATION EQUIPMENT",
+      "MAIN ENGINE & SPARE PARTS",
+      "GENERATOR AND SPARE PARTS",
+      "AIR COMPRESSOR & SPARE PARTS",
+      "OIL PURIFIER & SPARE PARTS",
+      "TURBOCHARGER & SPARE PARTS",
+      "HYDRAULIC MOTOR & PUMP",
+      "FRESH WATER GENERATOR",
+      "AC & REFRIGERATION COMPRESSOR",
+      "ANCHOR & ANCHOR CHAIN",
+      "NAVIGATION EQUIPMENT",
+      "New Arrivals",
+      "Our Services",
+      "Blog",
+      "Contact us",
+      "MAIN ENGINE & SPARE PARTS",
+      "SULZER",
+      "SULZER",
+      "B&W",
+      "MITSUBISHI",
+      "PIELSTICK",
+      "MAN",
+      "DEUTZ",
+      "M.W.M",
+      "WARTSILA",
+      "MAK",
+      "S.K.L.",
+      "HANSHIN",
+      "WORKSPOOR",
+      "BLACKSTONE",
+      "FIAT GMT",
+      "NOHABPOLAR",
+      "CATERPILLAR",
+      "Select Brand",
+      "Quick Links",
+      "About us",
+      "Our Products",
+      "Our Services",
+      "Blogs",
+      "Need Help",
+      "FAQ",
+      "Privacy Policy",
+      "Terms and conditions",
+      "Contact US",
+      "Contact Info",
+      "610, Lodha Signet Palava - Signet 1, Premier Colony Ground, Kalyan Shil Road,Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "Kalyan, Thane, Mumbai, Maharashtra 421204",
+      "+9167929096",
+      "spares@sanvimaritime.com",
+      "Sanvi marine services \u00a92025. All copyrights reserved."
+    ],
+    "images": [
+      {
+        "src": "https://www.sanvimaritime.com/images/Logo/01.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/04.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/05.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sanvimaritime.com/images/Testimonials/06.png",
+        "alt": ""
+      }
+    ]
+  }
+}
