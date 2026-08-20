@@ -1,4 +1,4 @@
-import logo from "../../assets/images/logo.png";
+import logo from "../../assets/images/logo.jpg";
 
 const Logo = () => {
   return (
@@ -9,7 +9,7 @@ const Logo = () => {
       <img
          src={logo}
          alt="Company Logo"
-         className="max-w-[180px] h-auto object-contain"
+         className="max-w-[140px] h-auto object-contain"
       />
     </a>
   );

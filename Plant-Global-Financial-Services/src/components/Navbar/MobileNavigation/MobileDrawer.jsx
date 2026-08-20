@@ -12,7 +12,7 @@ const MobileDrawer = ({ isOpen, children }) => {
         z-40
         transform
         transition-all
-        duration-300
+        duration-500
         ease-in-out
         overflow-hidden
         ${

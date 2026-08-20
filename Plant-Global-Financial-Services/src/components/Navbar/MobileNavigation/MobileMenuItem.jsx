@@ -12,7 +12,7 @@ const MobileMenuItem = ({ title, items, onClose }) => {
   };
 
   return (
-    <div className="border-b border-gray-200  px-6">
+    <div className="border-b border-gray-200 px-6">
 
       {/* Main Menu */}
 
